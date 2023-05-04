@@ -26,7 +26,7 @@ app.use("/api/user", UserRoute);
 const connect = async () => {
   try {
     mongoose
-      .connect("mongodb://localhost:27017/truong-dai-hoc", {
+      .connect("mongodb://localhost:27017/", {
         useNewUrlParser: true,
         useUnifiedTopology: true,
       })
