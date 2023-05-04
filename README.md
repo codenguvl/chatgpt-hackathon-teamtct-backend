@@ -58,7 +58,7 @@ Người dùng có thể xem thông tin về tuyển sinh mới nhất của cá
 
 Kết hợp với API của ChatGPT, chatbot có thể hỗ trợ người dùng khi hỏi bất cứ câu hỏi nào về chọn ngành, trường học.
 
-![Chatbot tư vấn thông minh]https://github.com/codenguvl/chatgpt-hackathon-tctteam-frontend/blob/main/src/assets/10.png)
+![Chatbot tư vấn thông minh](https://github.com/codenguvl/chatgpt-hackathon-tctteam-frontend/blob/main/src/assets/10.png)
 
 ### Quản trị viên
 
@@ -67,17 +67,14 @@ Truy cập vào đường dẫn http://localhost:3000/admin, ( ở trang login t
 #### Thêm, sửa, xóa thông tin trường học
 
 Quản trị viên có thể thêm, sửa, xóa thông tin về trường học, bao gồm các thông tin về tên trường, vị trí, vị trí, logo, hình ảnh và các thông tin khác
-![Thông tin tuyển sinh](images/add-edit-university.png)
 
 #### Thêm, sửa, xóa thông tin ngành học
 
 Quản trị viên có thể thêm, sửa, xóa thông tin về ngành học.
-![Thông tin tuyển sinh](images/add-edit-university.png)
 
 #### Thêm, sửa, xóa thông tin điểm chuẩn
 
 Quản trị viên có thể thêm, sửa, xóa thông tin về điểm chuẩn của trường và ngành học, bao gồm các thông tin về điểm chuẩn của các năm 2020, 2021, 2022.
-![Thông tin tuyển sinh](images/add-edit-university.png)
 
 ## Tài liệu tham khảo
 
