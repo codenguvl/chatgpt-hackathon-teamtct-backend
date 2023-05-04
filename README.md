@@ -15,40 +15,50 @@ Trang web này cung cấp các chức năng sau:
 #### Hướng dẫn người dùng sử dụng website
 
 Người dùng có thể click vào nút "Tìm hiểu ngay" để nhận được hướng dẫn sử dụng, chức năng của website.
-![Hướng dẫn người dùng sử dụng website](images/add-edit-university.png)
+
+![Hướng dẫn người dùng sử dụng website](https://github.com/codenguvl/chatgpt-hackathon-tctteam-frontend/blob/main/src/assets/1.png)
 
 #### Tính điểm
 
 Người dùng có thể tính điểm bằng cách nhập điểm đầy đủ, sau đó hệ thống sẽ tính điểm và đưa ra gợi ý khối thi, ngành học phù hợp với điểm số.
-![Tính điểm](images/add-edit-university.png)
+
+![Tính điểm](https://github.com/codenguvl/chatgpt-hackathon-tctteam-frontend/blob/main/src/assets/2.png)
 
 #### Tìm hiểu về ngành học
 
 Có đầy đủ thông tin chi tiết về tất cả các khối thi và ngành học. Người dùng có thể tìm hiểu về ngành học hoặc khối thi bằng cách highlight lên đoạn text, bấm vào biểu tượng dấu hỏi để nhận được câu trả lời.
-![Tìm hiểu về ngành học](images/add-edit-university.png)
-![Tìm hiểu về ngành học](images/add-edit-university.png)
+
+![Tìm hiểu về ngành học](https://github.com/codenguvl/chatgpt-hackathon-tctteam-frontend/blob/main/src/assets/3.png)
+
+![Tìm hiểu về ngành học](https://github.com/codenguvl/chatgpt-hackathon-tctteam-frontend/blob/main/src/assets/4.png)
 
 #### Xem điểm chuẩn
 
 Người dùng có thể xem thông tin về điểm chuẩn của khối thi, ngành và khu vực mình chọn.
-![Xem điểm chuẩn](images/add-edit-university.png)
+
+![Xem điểm chuẩn](https://github.com/codenguvl/chatgpt-hackathon-tctteam-frontend/blob/main/src/assets/5.png)
 
 ### Xem thông tin trường học
 
 Từ kết quả của xem điểm chuẩn, người dùng có thể click vào tên trường để xem được ảnh, thông tin của trường. Ngoài ra, người dùng có thể xem  gợi ý về các quán ăn, nhà trọ gần trường.
-![Xem thông tin trường học](images/add-edit-university.png)
-![Xem thông tin trường học](images/add-edit-university.png)
+
+![Xem thông tin trường học](https://github.com/codenguvl/chatgpt-hackathon-tctteam-frontend/blob/main/src/assets/6.png)
+
+![Xem thông tin trường học](https://github.com/codenguvl/chatgpt-hackathon-tctteam-frontend/blob/main/src/assets/7.png)
+
+![Xem thông tin trường học](https://github.com/codenguvl/chatgpt-hackathon-tctteam-frontend/blob/main/src/assets/8.png)
 
 ### Xem thông tin tuyển sinh
 
 Người dùng có thể xem thông tin về tuyển sinh mới nhất của các trường
 
-![Xem thông tin tuyển sinh](images/add-edit-university.png)
+![Xem thông tin tuyển sinh](https://github.com/codenguvl/chatgpt-hackathon-tctteam-frontend/blob/main/src/assets/9.png)
 
 #### Chatbot tư vấn ngành học thông minh
 
 Kết hợp với API của ChatGPT, chatbot có thể hỗ trợ người dùng khi hỏi bất cứ câu hỏi nào về chọn ngành, trường học.
-![Chatbot tư vấn thông minh](images/add-edit-university.png)
+
+![Chatbot tư vấn thông minh]https://github.com/codenguvl/chatgpt-hackathon-tctteam-frontend/blob/main/src/assets/10.png)
 
 ### Quản trị viên
 
