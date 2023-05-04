@@ -76,6 +76,50 @@ Quản trị viên có thể thêm, sửa, xóa thông tin về ngành học.
 
 Quản trị viên có thể thêm, sửa, xóa thông tin về điểm chuẩn của trường và ngành học, bao gồm các thông tin về điểm chuẩn của các năm 2020, 2021, 2022.
 
+## Hướng dẫn cài đặt
+
+Bước 1: Tạo thư mục
+
+Tạo hai thư mục con có tên là `frontend` và `backend` bằng lệnh sau:
+
+```
+mkdir frontend backend
+```
+
+Bước 2: Clone repository
+
+Clone repository `frontend` từ GitHub về thư mục `frontend` của dự án bằng lệnh sau:
+
+```
+git clone https://github.com/username/frontend.git frontend
+```
+
+Clone repository `backend` từ GitHub về thư mục `backend` của dự án bằng lệnh sau:
+
+```
+git clone https://github.com/username/backend.git backend
+```
+
+Bước 3: Cài đặt các phụ thuộc
+
+Mở Terminal hoặc Command Prompt và truy cập vào thư mục `frontend`. Sau đó, chạy lệnh sau để cài đặt các phụ thuộc:
+
+```
+npm install
+```
+
+Lặp lại quá trình này với thư mục `backend`.
+
+Bước 4: Chạy ứng dụng
+
+Sau khi cài đặt và cấu hình xong, bạn có thể chạy ứng dụng bằng lệnh sau:
+
+```
+npm start
+```
+
+Ứng dụng của bạn sẽ được chạy trên `http://localhost:3000` (với frontend) và `http://localhost:8800` (với backend).
+
 ## Tài liệu tham khảo
 
 - [ReactJS documentation](https://reactjs.org/docs/getting-started.html)
