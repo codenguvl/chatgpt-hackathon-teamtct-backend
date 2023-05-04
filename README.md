@@ -91,13 +91,13 @@ Bước 2: Clone repository
 Clone repository `frontend` từ GitHub về thư mục `frontend` của dự án bằng lệnh sau:
 
 ```
-git clone https://github.com/username/frontend.git frontend
+git clone https://github.com/codenguvl/chatgpt-hackathon-tctteam-frontend
 ```
 
 Clone repository `backend` từ GitHub về thư mục `backend` của dự án bằng lệnh sau:
 
 ```
-git clone https://github.com/username/backend.git backend
+git clone https://github.com/codenguvl/chatgpt-hackathon-teamtct-backend
 ```
 
 Bước 3: Cài đặt các phụ thuộc
